@@ -1,0 +1,20 @@
+html.dark-mode .primary-background-light {
+	background-color: var(--color-primary-light);
+}
+
+html.dark-mode body {
+	background-color: #1A1A1C;
+}
+
+html.dark-mode .editor-toolbar {
+	background-color: #1A1A1C;
+}
+
+.editor-toolbar {
+	min-height: 3.88%;
+}
+
+.grid-card {
+	border-radius: 7px;
+	background-color: #2d2d2d;
+}
