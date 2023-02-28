@@ -1,6 +1,6 @@
 # bookstack-dark-mode
 
-Couple couple aesthetic changes for the Default BookStack dark mode
+Couple aesthetic changes for the Default BookStack dark mode
 
 ## Usage
 
